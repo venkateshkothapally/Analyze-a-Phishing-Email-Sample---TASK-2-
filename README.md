@@ -1,4 +1,4 @@
-# Analyze-a-Phishing-Email-Sample---TASK-2-
+# Analyze-a-Phishing-Email-Sample---TASK-2
 - I went on my gmail services and clicked on random mails and copied header nd analysed on google admin tools and mx toolbox 
 - i didnt find any pishing mails in my inbox
 
