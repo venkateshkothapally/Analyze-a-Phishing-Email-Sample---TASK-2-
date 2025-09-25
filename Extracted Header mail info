@@ -10,6 +10,7 @@ SPF:	PASS with IP 149.72.230.0 Learn more
 DKIM:	'PASS' with domain f6s.com Learn more
 DMARC:	'PASS' Learn more
 
+Screenshot 2025-09-23 200509.png
 
 ********************
 Message ID	<CAP_w3LEqxMBgUM12ijR+5yOvEiZ_Wta87h5zKnYgtS8mrSmCXQ@mail.gmail.com>
